@@ -1,0 +1,10 @@
+GET http://localhost:8080/api/vi/user
+
+POST http://localhost:8080/api/vi/user
+
+{
+    "email" : "email@email",
+    "age" : 4,
+    "dob" : "2020-03-01",
+
+    }
